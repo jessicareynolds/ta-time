@@ -6,13 +6,13 @@ All TA sessions will be recorded just like class for students that are unable to
 
 Tickets for admittance to TA sessions must be requested at least one day in advance. *No-show to TA sessions is not acceptable*. If you must cancel, do so well in advance. TA time is valuable time.
 
-[fridays-with-sasha-6pm-to-8pm](fridays-with-sasha-6pm-to-8pm)
+- [Fridays with Sasha 6pm to 8pm](fridays-with-sasha-6pm-to-8pm)
 
-[saturdays-with-rob-12pm-2pm](saturdays-with-rob-12pm-2pm)
+- [Saturdays with Rob 12pm to 2pm](saturdays-with-rob-12pm-2pm)
 
-[mondays-with-dan-7pm-9pm](mondays-with-dan-7pm-9pm)
+- [Mondays with Dan 7pm to 9pm](mondays-with-dan-7pm-9pm)
 
-[tuesdays-with-shani-2pm-4pm](tuesdays-with-shani-2pm-4pm)
+- [Tuesdays with Shani 2pm to 4pm](tuesdays-with-shani-2pm-4pm)
 
 ## Request a Ticket
 
