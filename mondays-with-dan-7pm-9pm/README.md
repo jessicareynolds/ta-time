@@ -6,7 +6,7 @@ July 6th is the first Scheduled TA session with Dan
 
 Add your name to request a ticket for admittance
 
- -
+ - Erick Pacheco
 
  ## July 13th Attendees
 
