@@ -8,7 +8,7 @@ July 11th is the first scheduled Saturday with Rob
 
 Add your name to request a ticket for admittance
 
- -
+ -Colleen Kingsley - callback functions and using variables
 
  ## July 18th Attendees
 
