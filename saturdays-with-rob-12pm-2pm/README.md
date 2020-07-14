@@ -6,7 +6,7 @@ July 11th is the first scheduled Saturday with Rob
 
 ## July 11th Attendees
 
-Add your name to request a ticket for admittance
+Link to recording is pending still as of 7/14.
 
 - Colleen Kingsley - callback functions and using variables
 - Jessica Reynolds
