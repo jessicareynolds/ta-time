@@ -15,5 +15,7 @@ Add your name to request a ticket for admittance
 
 Add your name to request a ticket for admittance
 
- -
+ -Jessica Reynolds: 
+ *10-10-10 challenge, specifically Challenge 03
+ *Discussing how to use console.log / knowing what to call for when testing
  
