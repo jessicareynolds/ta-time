@@ -15,15 +15,9 @@ Link to recording is pending still as of 7/14.
 
 Add your name to request a ticket for admittance
 
--
-
--
-
-## July 25th Attendees
+ - Steph Bucharelli - brainstorm for the baseball homework assignment if that's ok.
+ 
+ 
+ ## July 25th Attendees
 
 Add your name to request a ticket for admittance
-
--
-
--
- 
