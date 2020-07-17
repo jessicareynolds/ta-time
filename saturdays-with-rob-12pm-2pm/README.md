@@ -14,5 +14,5 @@ Add your name to request a ticket for admittance
 
 Add your name to request a ticket for admittance
 
- -
+ - Steph Bucharelli - brainstorm for the baseball homework assignment if that's ok.
  
