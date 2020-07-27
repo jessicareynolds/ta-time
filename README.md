@@ -16,7 +16,9 @@ Tickets for admittance to TA sessions must be requested at least one day in adva
 
 ## Request a Ticket
 
-Use your git skills to make a fork, clone and then update the README for the session you would like to attend. Make a PR to be accepted to the session. Make your PR at least 12 hours in advance. Ideally 24 hours as a minimum. Good programming includes good planning.
+Use your git skills to make a fork, clone and then update the README for the session you would like to attend. Make a change and a PR for each individual TA and assign that TA to the PR. Make a PR to be accepted to the session. Make your PR at least 12 hours in advance. Share a link to your PR in slack in #asking-for-help. Ideally place your PR 24 hours in advance as a minimum but PRs made withing hours can also be possible. Good programming includes good planning. 
+
+If you do not get a response to your PR, place a follow up message on slack in #asking-for-help and mention the TA for the session you PR'd for.
 
 The TA will approve your pull request and provide you with your ticket to attend.
 
