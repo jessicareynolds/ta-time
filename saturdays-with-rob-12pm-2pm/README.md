@@ -12,6 +12,10 @@ Add your name to request a ticket for admittance
 
  ## July 18th Attendees
 
+ ## August 8th Attendees
+
+ -Jessica Reynolds: help with order book
+
 Add your name to request a ticket for admittance
 
  -
