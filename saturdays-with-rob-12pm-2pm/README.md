@@ -21,6 +21,8 @@ Add your name to request a ticket for admittance
  *Discussing how to use console.log / knowing what to call for when testing
   
  
- ## July 25th Attendees
+ ## 8/29 Attendees
+
+ -Jessica Reynolds: Portfolio coverage
 
 Add your name to request a ticket for admittance
